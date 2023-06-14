@@ -1,0 +1,15 @@
+F:\VideoApps\CRMManager\CRMManager.Application\bin\Debug\net7.0\CRMManager.Application.deps.json
+F:\VideoApps\CRMManager\CRMManager.Application\bin\Debug\net7.0\CRMManager.Application.dll
+F:\VideoApps\CRMManager\CRMManager.Application\bin\Debug\net7.0\CRMManager.Application.pdb
+F:\VideoApps\CRMManager\CRMManager.Application\bin\Debug\net7.0\CRMManager.Domain.dll
+F:\VideoApps\CRMManager\CRMManager.Application\bin\Debug\net7.0\CRMManager.Domain.pdb
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.csproj.AssemblyReference.cache
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.AssemblyInfoInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.AssemblyInfo.cs
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.csproj.CoreCompileInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.csproj.CopyComplete
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.dll
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\refint\CRMManager.Application.dll
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\CRMManager.Application.pdb
+F:\VideoApps\CRMManager\CRMManager.Application\obj\Debug\net7.0\ref\CRMManager.Application.dll

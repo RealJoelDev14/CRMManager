@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RMKQJxMqAfvEKugal6Gm4zJ4bCpIXAWpAV1gTwp6R98=",
+  "Source": "CRMManager.Api",
+  "BasePath": "_content/CRMManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

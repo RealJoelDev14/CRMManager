@@ -1,0 +1,12 @@
+F:\VideoApps\CRMManager\CRMManager.Contracts\bin\Debug\net7.0\CRMManager.Contracts.deps.json
+F:\VideoApps\CRMManager\CRMManager.Contracts\bin\Debug\net7.0\CRMManager.Contracts.dll
+F:\VideoApps\CRMManager\CRMManager.Contracts\bin\Debug\net7.0\CRMManager.Contracts.pdb
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.csproj.AssemblyReference.cache
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.AssemblyInfoInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.AssemblyInfo.cs
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.csproj.CoreCompileInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.dll
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\refint\CRMManager.Contracts.dll
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\CRMManager.Contracts.pdb
+F:\VideoApps\CRMManager\CRMManager.Contracts\obj\Debug\net7.0\ref\CRMManager.Contracts.dll

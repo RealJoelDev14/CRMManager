@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRMManager.Api.props" />
+</Project>

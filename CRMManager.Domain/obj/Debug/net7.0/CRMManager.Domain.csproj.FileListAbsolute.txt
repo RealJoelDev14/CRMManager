@@ -1,0 +1,12 @@
+F:\VideoApps\CRMManager\CRMManager.Domain\bin\Debug\net7.0\CRMManager.Domain.deps.json
+F:\VideoApps\CRMManager\CRMManager.Domain\bin\Debug\net7.0\CRMManager.Domain.dll
+F:\VideoApps\CRMManager\CRMManager.Domain\bin\Debug\net7.0\CRMManager.Domain.pdb
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.csproj.AssemblyReference.cache
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.AssemblyInfoInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.AssemblyInfo.cs
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.csproj.CoreCompileInputs.cache
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.dll
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\refint\CRMManager.Domain.dll
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\CRMManager.Domain.pdb
+F:\VideoApps\CRMManager\CRMManager.Domain\obj\Debug\net7.0\ref\CRMManager.Domain.dll
